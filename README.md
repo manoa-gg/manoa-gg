@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @manoa-gg
-- 👀 I’m interested in self development currently in data analytics, reading, and gardening 
-- 🌱 I’m currently learning data analytics to sharpen my knowledge and increase my expertise
-- 💞️ I’m looking to collaborate on my portfolio probably want to give me some input regarding my portfolio
-- 📫 How to reach me giovanny.manoa@gmail.com or manoa_gg on Instagram
-- 😄 Pronouns: I have none, I'm a straight male
-- ⚡ Fun fact: Business development manager turn data analyst
+# 👋 Hi, I'm Giovanny | Data Analyst 
+
+💼 Still Business Dev Manager → Growing Data Analyst  
+🌱 Growing analytics skills daily  
+
+## 🛠️ Tech Stack
+[R][Tableau][SQL][Excel] badges here...
+
+## 🌟 Featured Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Sales Dashboard](link) | Real-time revenue tracker | Tableau, SQL |  
+
+## 🤝 Let's Collaborate
+I'm open to:
+- Portfolio critiques
+- Open-source data cleaning projects
+- Gardening analytics initiatives ✨
+
+📬 **Reach Me**:  
+[<img src='email_icon.png' width='20'>](mailto:giovanny.manoa@gmail.com) 
+[<img src='instagram_icon.png' width='20'>](https://instagram.com/manoa_gg)- ⚡ Fun fact: Business development manager turn data analyst
 
 <!---
 manoa-gg/manoa-gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
