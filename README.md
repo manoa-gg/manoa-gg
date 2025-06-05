@@ -15,7 +15,7 @@
 I'm open to:
 - Portfolio critiques
 - Open-source data cleaning projects
-- Gardening analytics initiatives ✨
+- Analytics initiatives ✨
 
 📬 **Reach Me**:  
 [<img src='email_icon.png' width='20'>](mailto:giovanny.manoa@gmail.com) 
