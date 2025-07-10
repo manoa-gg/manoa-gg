@@ -16,7 +16,10 @@
 ## 🌟 Featured Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Sales Dashboard](link) | Real-time revenue tracker | Tableau, SQL |  
+| [Ride Sharing](https://github.com/manoa-gg/Cyclistic_Bike_Share_Analysis) | Real-time revenue tracker | R |  
+| [Maven_Roastery_Analysis](https://github.com/manoa-gg/Maven_Roastery_Analysis_SQL) | Real-time revenue tracker | SQL |
+| [Choco_Sales](https://github.com/manoa-gg/Choco_Sales_Analysis_SQL) | Real-time revenue tracker | SQL |
+| [Maven_Roastery_Visualization](https://github.com/manoa-gg/Maven_Roastery_Tableau) | Real-time revenue tracker | Tableau |
 
 ### My Analytics Journey  
 > "As a Business Development Manager, I constantly asked:  
