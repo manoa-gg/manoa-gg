@@ -16,10 +16,10 @@
 ## 🌟 Featured Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Ride Sharing](https://github.com/manoa-gg/Cyclistic_Bike_Share_Analysis) | Real-time revenue tracker | R |  
-| [Maven_Roastery_Analysis](https://github.com/manoa-gg/Maven_Roastery_Analysis_SQL) | Real-time revenue tracker | SQL |
-| [Choco_Sales](https://github.com/manoa-gg/Choco_Sales_Analysis_SQL) | Real-time revenue tracker | SQL |
-| [Maven_Roastery_Visualization](https://github.com/manoa-gg/Maven_Roastery_Tableau) | Real-time revenue tracker | Tableau |
+| [Ride Sharing](https://github.com/manoa-gg/Cyclistic_Bike_Share_Analysis) | Usage pattern and clustering for marketing effort | R |  
+| [Maven_Roastery_Analysis](https://github.com/manoa-gg/Maven_Roastery_Analysis_SQL) | Strategic opportunities for revenue growth | SQL |
+| [Choco_Sales](https://github.com/manoa-gg/Choco_Sales_Analysis_SQL) | KPI and strategic opportunities | SQL |
+| [Maven_Roastery_Visualization](https://github.com/manoa-gg/Maven_Roastery_Tableau) | Sales-performance and customer behavior | Tableau |
 
 ### My Analytics Journey  
 > "As a Business Development Manager, I constantly asked:  
